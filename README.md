@@ -1,0 +1,1 @@
+I'm creating this project because i want to improve my programming skills and my knowledge of unity to create games.I will try to upload updates every day and do programming exercises to improve my logic and develop the necessarry skills to become a developer.
