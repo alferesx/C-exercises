@@ -1,0 +1,14 @@
+C:\Users\alfer\Documents\GitHub\C#exercises\ExercisesList\ExerciseList1\bin\Debug\net9.0\ExerciseList1.exe
+C:\Users\alfer\Documents\GitHub\C#exercises\ExercisesList\ExerciseList1\bin\Debug\net9.0\ExerciseList1.deps.json
+C:\Users\alfer\Documents\GitHub\C#exercises\ExercisesList\ExerciseList1\bin\Debug\net9.0\ExerciseList1.runtimeconfig.json
+C:\Users\alfer\Documents\GitHub\C#exercises\ExercisesList\ExerciseList1\bin\Debug\net9.0\ExerciseList1.dll
+C:\Users\alfer\Documents\GitHub\C#exercises\ExercisesList\ExerciseList1\bin\Debug\net9.0\ExerciseList1.pdb
+C:\Users\alfer\Documents\GitHub\C#exercises\ExercisesList\ExerciseList1\obj\Debug\net9.0\ExerciseList1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfer\Documents\GitHub\C#exercises\ExercisesList\ExerciseList1\obj\Debug\net9.0\ExerciseList1.AssemblyInfoInputs.cache
+C:\Users\alfer\Documents\GitHub\C#exercises\ExercisesList\ExerciseList1\obj\Debug\net9.0\ExerciseList1.AssemblyInfo.cs
+C:\Users\alfer\Documents\GitHub\C#exercises\ExercisesList\ExerciseList1\obj\Debug\net9.0\ExerciseList1.csproj.CoreCompileInputs.cache
+C:\Users\alfer\Documents\GitHub\C#exercises\ExercisesList\ExerciseList1\obj\Debug\net9.0\ExerciseList1.dll
+C:\Users\alfer\Documents\GitHub\C#exercises\ExercisesList\ExerciseList1\obj\Debug\net9.0\refint\ExerciseList1.dll
+C:\Users\alfer\Documents\GitHub\C#exercises\ExercisesList\ExerciseList1\obj\Debug\net9.0\ExerciseList1.pdb
+C:\Users\alfer\Documents\GitHub\C#exercises\ExercisesList\ExerciseList1\obj\Debug\net9.0\ExerciseList1.genruntimeconfig.cache
+C:\Users\alfer\Documents\GitHub\C#exercises\ExercisesList\ExerciseList1\obj\Debug\net9.0\ref\ExerciseList1.dll

@@ -1,0 +1,14 @@
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise6\obj\Debug\net9.0\Exercise6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise6\obj\Debug\net9.0\Exercise6.AssemblyInfoInputs.cache
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise6\obj\Debug\net9.0\Exercise6.AssemblyInfo.cs
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise6\obj\Debug\net9.0\Exercise6.csproj.CoreCompileInputs.cache
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise6\bin\Debug\net9.0\Exercise6.exe
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise6\bin\Debug\net9.0\Exercise6.deps.json
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise6\bin\Debug\net9.0\Exercise6.runtimeconfig.json
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise6\bin\Debug\net9.0\Exercise6.dll
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise6\bin\Debug\net9.0\Exercise6.pdb
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise6\obj\Debug\net9.0\Exercise6.dll
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise6\obj\Debug\net9.0\refint\Exercise6.dll
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise6\obj\Debug\net9.0\Exercise6.pdb
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise6\obj\Debug\net9.0\Exercise6.genruntimeconfig.cache
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise6\obj\Debug\net9.0\ref\Exercise6.dll

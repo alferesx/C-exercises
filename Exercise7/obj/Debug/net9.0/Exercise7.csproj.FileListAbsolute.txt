@@ -1,0 +1,14 @@
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise7\bin\Debug\net9.0\Exercise7.exe
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise7\bin\Debug\net9.0\Exercise7.deps.json
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise7\bin\Debug\net9.0\Exercise7.runtimeconfig.json
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise7\bin\Debug\net9.0\Exercise7.dll
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise7\bin\Debug\net9.0\Exercise7.pdb
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise7\obj\Debug\net9.0\Exercise7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise7\obj\Debug\net9.0\Exercise7.AssemblyInfoInputs.cache
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise7\obj\Debug\net9.0\Exercise7.AssemblyInfo.cs
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise7\obj\Debug\net9.0\Exercise7.csproj.CoreCompileInputs.cache
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise7\obj\Debug\net9.0\Exercise7.dll
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise7\obj\Debug\net9.0\refint\Exercise7.dll
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise7\obj\Debug\net9.0\Exercise7.pdb
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise7\obj\Debug\net9.0\Exercise7.genruntimeconfig.cache
+C:\Users\alfer\Documents\GitHub\C#exercises\Exercise7\obj\Debug\net9.0\ref\Exercise7.dll
